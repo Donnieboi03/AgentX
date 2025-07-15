@@ -23,6 +23,4 @@ A terminal-native AI assistant that uses **OpenAI GPT models** with memory, file
 
 ---
 
-## 📁 File Structure
-
 
